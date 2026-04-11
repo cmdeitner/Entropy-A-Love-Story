@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="demo_006" width="75" %}
+{% include feature/image.html objectid="entropy_006" width="75" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
